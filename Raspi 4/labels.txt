@@ -1,0 +1,4 @@
+G Glass
+P Plastic
+M Metal
+E SomethingElse

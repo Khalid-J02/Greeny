@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hardware-graduation-project",
+  "private_key_id": "cd247aae4b8c9b22a5f0d4b5d1cf0aa5f5d8f8a2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDQ3LJ1KESyD6lV\n986fePUmeDhyP844paa0hAUpJYTPEO0SJ1tIjFgjJWxidcrcm26WwP/eVFswj/J1\nish5WX041lg6XnKJetJCduFQg2M2C0gbDc6rc3s6idQl9OzIRzF6a4ZQxWi8FH32\nwLQLOS+mIWeNRveYAsz5UIOe0/IXw/lywqafm3Yfsc7WvsvCxVNbcmi2LQz+UmmW\nRDBCDm/sfF/O2qnT7XNn7+QmOaU6eGGZRVB0P1hq4rPAs3Ze4nAq9KyR9KouXUtx\nfuZ+V5cGlfLlfq55KJlGGxYW3Y6hk6loRSkEi8TNyIOcZ/NQ3vSTmSJTSVoJWiDa\nxMggq3DXAgMBAAECggEAOrWu3Evjc4H/gZDU3fLsRlII2+SfnUDDKX7qzHQlbuc9\nHJs/h5cbt1VvsAWYboaqgWnjAqYHtBDigLPwQlwrXOyzhETEQWzq6Y/tKeqk2q41\nKJWrAHrHqt7PaZP9cxbAC79p1A6JsES6W8AzW+xJPpOpPgcy1eIDqBk/xkehh5gm\nwFJiIs6QjXsGXFi+HJ9shqLW/Fj2vnzzzAxvvxFwnWuBATjPpgPsv8oAgYCVCrYJ\nW9wNlqId55yvGB3Sl1f1nbi4JRXz8l3osr3NlnbDV6jEqL4l0EkfWzrRP+rWbZ8H\npXO5cJ04ifPBkcK/ua+BdDaqsF8Uy6Oie5cAWseREQKBgQDy78ECDZBK4Xt/0b7i\n85yBbM3gQ3iBfTW/4Zy6zPXMhi9tuRFmNLvAnx1BsqhR3Yxybm0+ZOcYu4jGOaiL\nQTF5hDDns0vcSc5/ZgQ0pUGARUg+SSjFDOVxV7hggUqTmcjoE78MUjFr4Hjm+IwW\nq5g7GPgd9QrqBMZxU52imivZLQKBgQDcF+CB5XC0guTn1Vjsbl0G4HMKB5egDQaC\nDyT5ZaB+gazE/rh+Mp0GFWjStOveAOmLB/jfsJM+2t3g5f+DddCUExi7z99KraQg\njcsC8Z9cSXWOWMKL3bpA20L9sk+M4YdeIXomFgJImKZcKtglEVh35Eu1T5KM4ngV\n7Xcw1xIskwKBgCTDv9PNta5/XS9E0LyL3X2At89eppgCGOZHAG8MoY4oKHlUbpun\nE1rdOZI9tVdeTejraUDuCEMn7lUBWM5qOVCIftYxviNCUCvbhntpHvaIhZxXegII\nJ5j1i4OfTWf0+ACXLGxy6+PFfsaFir3LjigzaSkvck1kF5wC6XI4HrapAoGARoSH\n9FaVI+EEgptC4I4D1F45va7tD+TcfvNnP1kmcSIPPxb1+ckxsm9NpKU/JWRZb6hg\nPxuOMgdiK9rFYVNwPuFXfWV+/6he++cycoEENEd9GNyriLDEKl+WOT7WaicgfjJv\ntqA6nxP5yXIYyteh5tgIwdD6/ZTaMPxiwg1Gz20CgYB2Mjn5mwXLwmCNviD9Cmqi\ne7A8Yi85YMIZ0M5Izc0yKyytMQdF+QXwElqD7oROtoJZ15p3G077pwXS5FV8/Mb8\nw+5z3yFRJKGGvvzi+mzAGDrLopvXHm2jAJjmMWEYeUsxldOHlaJhP32caSyPAKuh\n/EVGORr0G2ql8iOi7pHMLQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-bl5p9@hardware-graduation-project.iam.gserviceaccount.com",
+  "client_id": "106687590464864976134",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-bl5p9%40hardware-graduation-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
